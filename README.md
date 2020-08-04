@@ -1,4 +1,5 @@
 # com-pra
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Vue cli のコンポーネント作成の練習
+>>>>>>> origin/master
