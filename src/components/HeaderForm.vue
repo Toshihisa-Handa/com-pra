@@ -27,17 +27,17 @@
       </v-btn>
      </router-link>
 
-      <router-link active-class="current" v-bind:to="{ name: '#'}">
+      <!-- <router-link active-class="current" v-bind:to="{ name: '#'}">
       <v-btn icon>
         <v-icon>mdi-heart</v-icon>
       </v-btn>
-     </router-link>
+     </router-link> -->
 
-      <router-link active-class="current" v-bind:to="{ name: '#'}">
+      <!-- <router-link active-class="current" v-bind:to="{ name: '#'}">
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
-     </router-link>
+     </router-link> -->
 
       <router-link active-class="current" v-bind:to="{ name: 'Form'}">
       <v-btn icon>
@@ -51,18 +51,18 @@
       </v-btn>
      </router-link>
 
-      <router-link active-class="current" v-bind:to="{ name: 'Top'}">
+      <!-- <router-link active-class="current" v-bind:to="{ name: '#'}">
       <v-btn icon>
         <v-icon>mdi-logout</v-icon>
       </v-btn>
-     </router-link>
+     </router-link> -->
 
-      <router-link active-class="current" v-bind:to="{ name: 'Top'}">
+      <!-- <router-link active-class="current" v-bind:to="{ name: ''}">
       <v-btn icon>
         <v-icon>mdi-account-plus</v-icon>
       </v-btn>
      </router-link>
-   
+    -->
 
 
     </v-app-bar>
@@ -110,7 +110,7 @@ a {
   text-decoration: none;
 }
 .current .v-btn--icon .v-icon {
-  color: #ff80ab;
+  color: #f5ff8c;
 }
 </style>
 
