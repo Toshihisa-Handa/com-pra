@@ -4,8 +4,8 @@
   </v-container>
 </template>
 
-<style lang="scss">
+<style sco>
   h1{
-    $color:red
+    color:red
   }
 </style>
